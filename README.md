@@ -9,4 +9,4 @@
 
 ## 🔧 | Linguagens
 
-![Linguagens](https://skillicons.dev/icons?i=html,css,js)
+!(https://skillicons.dev/icons?i=html,css,js)
