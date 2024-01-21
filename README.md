@@ -15,6 +15,6 @@
 
 ![Estudando()](https://skillicons.dev/icons?i=react,tailwind)
 
-## Ferramentas de Trabalho
+## 💻 | Ferramentas de Trabalho
 
 ![ferramentas()](https://skillicons.dev/icons?i=vscode,figma)
