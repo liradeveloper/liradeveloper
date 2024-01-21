@@ -10,3 +10,7 @@
 ## 🔧 | Tecnologias
 
 ![Linguagens()](https://skillicons.dev/icons?i=html,css,js,jquery,git)
+
+### 📚 | Estudando
+
+![Linguagens()](https://skillicons.dev/icons?i=react,tailwind)
