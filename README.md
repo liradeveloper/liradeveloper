@@ -1,7 +1,5 @@
 # 👋 | Olá, me chamo Kaio Lira.
 
-#### 💻 | Desenvolvedor/Estudante de Front-end
-
 ## 🔧 | Tecnologias
 ![Linguagens()](https://skillicons.dev/icons?i=html,css,js,jquery,git)
 
