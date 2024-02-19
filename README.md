@@ -1,10 +1,1 @@
-# 👋 | Olá, me chamo Kaio Lira.
-
-## 🔧 | Tecnologias
-![Linguagens()](https://skillicons.dev/icons?i=html,css,js,jquery,git)
-
-### 📚 | Estudando
-![Estudando()](https://skillicons.dev/icons?i=typescript,react,tailwind)
-
-## 💻 | Ferramentas de Trabalho
-![ferramentas()](https://skillicons.dev/icons?i=vscode,figma)
+`👋` Hello, my name is Kaio Lira. I'm a front-end programmer/student. Ceo and founder at <a href="https://discord.gg/3uJ4tD9hs7">Next Development<a/>.
