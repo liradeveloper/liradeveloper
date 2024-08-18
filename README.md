@@ -8,4 +8,4 @@ Hello, my name is **Kaio Lira** and im a **front-end** developer with experience
 
 ## 📚 | Frameworks & Tools
 
-[![Frameworks & tools](https://skillicons.dev/icons?i=react,jquery,tailwind,figma,git,vscode,&theme=light)](https://skillicons.dev)
+[![Frameworks & tools](https://skillicons.dev/icons?i=react,vite,jquery,tailwind,styledcomponents,figma,git,vscode,&theme=light)](https://skillicons.dev)
