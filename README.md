@@ -1,5 +1,5 @@
 # 👋 Kaio Lira
 
-Hello, my name is Kaio Lira. I'm a front end developer and I have a little experience with UI design.
+Hello, my name is **Kaio Lira**. I'm a **front-end** developer with experience in Node.js, Javascript and Typescript.
 
 ## 💻 Languages
